@@ -9,6 +9,5 @@ My particular version of evernote. I keep my private notes GPG encrypted in a pu
 * [work notes](work.md)
 * [projects notes](projects.md)
 * [youtube notes](youtube.md)
-* [makerfaire notes](makerfaire.md)
 * [resolutions](resolutions.md)
 * [archived notes](archived.md)
