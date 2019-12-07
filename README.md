@@ -2,13 +2,13 @@
 
 My particular version of evernote. I keep my private notes GPG encrypted in a public repository. Feel free to try to decrypt them :sunglasses:
 
-* [to do](todo.md)
-* [The Beach Lab notes](beachlab.md)
-* [personal notes](personal.md)
-* [fab academy notes](fabacademy.md)
-* [work notes](work.md)
-* [projects notes](projects.md)
-* [youtube notes](youtube.md)
-* [resolutions](resolutions.md)
-* [videos](videos.md)
-* [archived notes](archived.md)
+* [to do](todo.pgp)
+* [The Beach Lab notes](beachlab.pgp)
+* [personal notes](personal.pgp)
+* [fab academy notes](fabacademy.pgp)
+* [work notes](work.pgp)
+* [projects notes](projects.pgp)
+* [youtube notes](youtube.pgp)
+* [resolutions](resolutions.pgp)
+* [videos](videos.pgp)
+* [archived notes](archived.pgp)
