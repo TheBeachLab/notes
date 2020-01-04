@@ -1,5 +1,7 @@
 # Notes
 
+![encrypted](encrypted.jpg)
+
 My particular version of evernote. I keep my private notes GPG encrypted in a public repository. Feel free to try to decrypt them :sunglasses:
 
 * [to do](todo.pgp)
